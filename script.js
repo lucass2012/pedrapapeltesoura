@@ -21,4 +21,4 @@ function playRockPaperScissor (player1,player2){
 }
   
 
-console.log (playRockPaperScissor("Pe","Tesoura"))
+console.log (playRockPaperScissor("Pedra","Tesoura"))
